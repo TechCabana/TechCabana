@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there, I'm Ankhit! 👋<br><br>About Me<br>I'm a seasoned Product & Analytics leader with 9+ years of experience transforming data into tangible business value. Currently serving as a Senior Product Manager. I specialize in building and scaling data products that drive revenue growth and operational efficiency.<br>
+I'm a seasoned Product & Analytics leader with 9+ years of experience transforming data into tangible business value. Currently serving as a Senior Product Manager. I specialize in building and scaling data products that drive revenue growth and operational efficiency.<br>
 
 ## <br> What I Do
 <br>- 🚀 **Product Management**: Lead cross-functional teams and manage data product estates serving pan-European organizations<br>- 📊 **Data & Analytics**: Bridge technical capabilities with business strategy to deliver measurable impact<br>- 🔧 **Process Automation**: Automated 500+ hours of manual processes through RPA and intelligent reporting<br>- 🏗️ **Data Architecture**: Design and implement enterprise data warehouses, governance frameworks, and BI solutions<br>
